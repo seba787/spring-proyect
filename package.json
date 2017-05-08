@@ -1,0 +1,22 @@
+{
+  "name": "spring-proyect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seba787/spring-proyect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seba787/spring-proyect/issues"
+  },
+  "homepage": "https://github.com/seba787/spring-proyect#readme",
+  "description": "",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
